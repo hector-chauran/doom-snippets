@@ -3,4 +3,4 @@
 # key: r
 # uuid: r
 # --
-return $0;
+return $0

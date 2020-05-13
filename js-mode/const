@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: const ... = ...;
-# key: con
-# uuid: con
+# key: c
+# uuid: c
 # --
-const ${1:name} = ${0:`%`};
+const ${1:name} = ${0:`%`}
